@@ -23,7 +23,9 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
-
+## Pairing Mode:
+Switch the device 6 times on and off.
+see: --> https://www.youtube.com/watch?v=mJm9YpPrGzk
 
 <!-- Notes END: Do not edit below this line -->
 
